@@ -10,7 +10,7 @@ if (!$db) {
 }
 
 if ($db){
-    // echo 'berhasil ';
+    echo 'Berhasil terhubung dengan database';
 }
 
 ?>
