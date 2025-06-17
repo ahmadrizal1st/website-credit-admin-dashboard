@@ -182,9 +182,3 @@ Kemudian import file `db_sewa.sql` ke dalam database container menggunakan phpMy
 
 ---
 
-## 📬 Kontak
-
-Jika ada pertanyaan atau ingin berkontribusi, silakan hubungi pengembang proyek ini.
-
----
-
